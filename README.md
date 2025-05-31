@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**Pedromdq88/Pedromdq88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1> Bienvenidos a mi GITHUB </h1> ##👋
+<h2> Quien soy?</h2>
+<p>Soy Pedro Jordan, Estudiante de <span>la Tecnicatura Universitaria en Programacion</span> en la UTN de Mar del Plata</p>
+<h2> Que tecnologias uso</h2>
+<p>
+  <ul>
+     <li>C</li>
+     <li>Java</li>
+     <li>SpringBoot</li>
+     <li>MySql</li>
+  </ul>
+</p>
